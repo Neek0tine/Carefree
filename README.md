@@ -1,6 +1,6 @@
 # Carefree
 ![Discord](https://img.shields.io/discord/257479001365413889?label=Discord&style=flat-square) This is where I live.
-<img src="https://github.com/Neek0tine/Carefree/blob/master/carefree.png" width="512" height="256">
+<img src="https://github.com/Neek0tine/Carefree/blob/master/carefree.png" width="256" height="64">
 Prototype auto-raffler utilitizing PySimpleGUI module, allowing an easier user interface
 
 ## Authors
