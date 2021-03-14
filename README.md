@@ -4,7 +4,7 @@ Prototype auto-raffler utilitizing PySimpleGUI module, allowing an easier user i
 
 ## Authors
 
-* **Neek0tine** - *Initial work* - [PurpleBooth](https://github.com/Neek0tine)
+* **Neek0tine** - *Initial work* - [Neek0tine](https://github.com/Neek0tine)
 
 ## License
 
