@@ -13,16 +13,23 @@ Instructions to install the webengine driver is available in-app. Make sure to r
 ## Screenshots
 
 The main window:
-<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot.png" width="480" height="480">
+
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot.png" width="256" height="256">
+
 
 Starting actions
-<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot2.png" width="480" height="480">
+
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot2.png" width="256" height="256">
+
 
 Joining raffles
-<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot3.png" width="480" height="480">
+
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot3.png" width="256" height="256">
+
 
 Overwatch mode (refreshes every 1 minute until a new raffle appear)
-<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot4.png" width="480" height="480">
+
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot4.png" width="256" height="256">
 
 ## End-User License Agreement
 
