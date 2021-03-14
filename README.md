@@ -1,4 +1,4 @@
-# Project Title
+# Carefree
 
 Prototype auto-raffler utilitizing PySimpleGUI module, allowing an easier user interface
 
