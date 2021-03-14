@@ -10,6 +10,20 @@ Prototype auto-raffler utilitizing PySimpleGUI module, allowing an easier user i
 Download the executable file from the "Releases" tab, and run it. I highly recommend you to run it inside a folder for the program creates a configuration files.
 Instructions to install the webengine driver is available in-app. Make sure to read what the console says.
 
+## Screenshots
+
+The main window:
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot.png" width="480" height="480">
+
+Starting actions
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot2.png" width="480" height="480">
+
+Joining raffles
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot3.png" width="480" height="480">
+
+Overwatch mode (refreshes every 1 minute until a new raffle appear)
+<img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot4.png" width="480" height="480">
+
 ## End-User License Agreement
 
 By running the software, the user acknowledged that:
