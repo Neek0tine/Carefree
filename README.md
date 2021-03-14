@@ -14,7 +14,7 @@ Instructions to install the webengine driver is available in-app. Make sure to r
 
 By running the software, the user acknowledged that:
  1. The user agrees and follows the Term of Service provided [LICENSE](https://github.com/Neek0tine/Carefree/blob/master/LICENSE)
- 2. All changes that happened to end-user's computer, online account, or property my by running this appplication is NOT the responsibilty of the author
+ 2. All changes that happened to end-user's computer, online account, or property made by running this appplication is NOT the responsibilty of the author
  3. The user shall not PROMOTE, DISTRIBUTE or SHARE the app or the link to the app. 
 
 
