@@ -5,6 +5,19 @@
 
 Prototype auto-raffler utilitizing PySimpleGUI module, allowing an easier user interface
 
+## Installation
+
+Download the executable file from the "Releases" tab, and run it. I highly recommend you to run it inside a folder for the program creates a configuration files.
+Instructions to install the webengine driver is available in-app. Make sure to read what the console says.
+
+## End-User License Agreement
+
+By running the software, the user acknowledged that:
+ 1. The user agrees and follows the Term of Service provided [LICENSE](https://github.com/Neek0tine/Carefree/blob/master/LICENSE)
+ 2. All changes that happened to end-user's computer, online account, or property my by running this appplication is NOT the responsibilty of the author
+ 3. The user shall not PROMOTE, DISTRIBUTE or SHARE the app or the link to the app. 
+
+
 ## Authors
 
 * **Nick "Neek0tine" Calvin** - *Initial work* - [Neek0tine](https://github.com/Neek0tine)
