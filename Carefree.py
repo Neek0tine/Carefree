@@ -173,7 +173,6 @@ def gui():
     delay, frequency = read_config()
     sg.theme('dark blue ')
     layout = [[sg.Image(filename="carefree.png", size=(256, 64))],
-              [sg.Text('Changes are done manually by editing the "config.ini"')],
               [sg.Text('Delay', size=(10, 1)),
                sg.Input(default_text=delay, readonly=True, size=(8, 1), text_color='SteelBlue4',
                         background_color='SteelBlue4', key='-DELAY-IN-')],
