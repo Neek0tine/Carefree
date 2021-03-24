@@ -11,7 +11,7 @@ Download the executable file from the "Releases" tab, and run it. I highly recom
 Instructions to install the webengine driver is available in-app. Make sure to read what the console says.
 
 ## Screenshots
-
+<b> These screenshots are taken from version 1.0, version 2.0+ will have different GUI </b>
 The main window:
 
 <img src="https://github.com/Neek0tine/Carefree/blob/master/screenshots/screenshot.png" width="256" height="256">
