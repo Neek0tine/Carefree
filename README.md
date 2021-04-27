@@ -49,6 +49,6 @@ By running the software, the user acknowledged that:
 Pull requests are welcome. For major changes, how-to, and in-depth explanation, please discuss it with the author first using the discord link. 
 
 ## License
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/Neek0tine/Carefree/blob/master/LICENSE) file for details
 
